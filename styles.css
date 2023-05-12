@@ -12,7 +12,7 @@ body {
   justify-content: center;
   min-height: 100vh;
   padding: 0 10px;
-  background: #03d9d9;
+  background: radial-gradient(rgb(4, 190, 181), rgb(221, 255, 0), rgb(255, 0, 242), orange);
 }
 .wrapper {
   border-radius: 20px;
